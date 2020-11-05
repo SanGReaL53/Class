@@ -1,5 +1,5 @@
 class Button:
-    def _init_(self):
+    def __init__(self):
         self.clicks = 0
     def click(self):
         self.clicks += 1
