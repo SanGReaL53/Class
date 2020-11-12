@@ -1,5 +1,4 @@
 class Button:
-
     def __init__(self):
         self.clicks = 0
 
