@@ -7,7 +7,7 @@ class Button:
         self.clicks += 1
 
     def click_count(self):
-        print(self.clicks)
+        return self.clicks
 
     def reset(self):
         self.clicks = 0
