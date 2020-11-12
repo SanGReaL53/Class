@@ -1,5 +1,4 @@
 class Balance:
-
     def __init__(self):
         self.right = 0
         self.left = 0
