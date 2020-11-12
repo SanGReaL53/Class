@@ -14,10 +14,3 @@ class OddEvenSeparator:
 
     def odd(self):
         print(self._odd)
-
-o = OddEvenSeparator()
-o.add_number(4)
-o.add_number(1)
-o.add_number(2)
-o.even()
-o.odd()
